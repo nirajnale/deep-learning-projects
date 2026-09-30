@@ -17,7 +17,7 @@ Deep Learning Projects is a collection of practical implementations demonstratin
 
 Rather than focusing on a single application, this repository explores different categories of Deep Learning through independent projects covering image classification, sequence modeling, natural language processing, industrial datasets, and Transformer-based architectures.
 
-Each project emphasizes understanding the complete Deep Learning workflow—from preprocessing and model construction to training, evaluation, and prediction—while reinforcing software engineering practices through modular Python implementations.
+Each project emphasizes understanding the complete Deep Learning workflow—from preprocessing and model construction to training, evaluation, and prediction—while reinforcing software engineering practices through modular Python implementations
 
 ---
 

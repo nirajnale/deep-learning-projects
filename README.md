@@ -1,5 +1,5 @@
 # 🧠 Deep Learning Projects 
-
+ 
 > A curated collection of practical Deep Learning implementations covering **Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, Natural Language Processing (NLP), Computer Vision, Transformers, and Industrial Deep Learning applications** using Python and TensorFlow.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
